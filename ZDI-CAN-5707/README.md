@@ -1,2 +1,2 @@
 # Microsoft Windows Media Foundation Use-After-Free Remote Code Execution Vulnerability
-<html><a href="http://images.fanpop.com/images/image_uploads/The-Departed-wallpaper-the-departed-502223_500_375.jpg">CVE-2018-0763</a></html>
+<html><a href="https://www.zerodayinitiative.com/advisories/ZDI-18-579/">CVE-2018-8251</a></html>
