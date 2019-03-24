@@ -1,2 +1,2 @@
 # Bugs
-Recent public bugs disclosed to vendors
+some public bugs disclosed to vendors
